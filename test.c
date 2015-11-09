@@ -1,7 +1,8 @@
 #include <unstd.h>
 
 int main(int argc, char **argv)
-{
-	printf("Hello world!\n");
+{xxxxx
+	printf("xxxxHello world!\n");
+	printf("xxxx\n");
 	return 0;
 }
